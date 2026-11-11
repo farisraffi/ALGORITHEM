@@ -1,0 +1,14 @@
+
+
+INPUT:
+    Nama pembeli
+    Jumlah makanan
+    Harga satu makanan
+
+PROSES:
+    Total pembayaran = Jumlah makanan × Harga satu makanan
+
+OUTPUT:
+    Nama pembeli
+    Total pembayaran
+
